@@ -6,7 +6,7 @@ The Covid-19 pandemic, which until now has not ended, has had significant transi
 
 This decline in performance is of course in line with the increasing rate of the national poverty rate, thereby reducing the people's standard of living. This is of course a burden for the state, especially in the swelling of the use of state treasury in the form of implementing a pandemic response program without being accompanied by an adequate contribution of cash income.
 
-In addition, the middle class to the marginalized are considered to be very affected due to the limitations of socio-economic activities and the existing business opportunities, causing their condition to be very frictional with meeting the needs of daily life. Therefore, this is the interest of this Exploratory Data Analysis (EDA) to further investigate the impact of the Covid-19 pandemic on SMEs and the poverty rate in West Java.
+In addition, the middle class to the marginalized are considered to be very affected due to the limitations of socio-economic activities and the existing business opportunities, causing their condition to be very frictional with meeting the needs of daily life. Therefore, this is the interest of this Exploratory Data Analysis (EDA) to further investigate the impact of the Covid-19 pandemic on SMEs, poverty rate, and unemployment rate in West Java.
 
 ## Methods
 
