@@ -10,10 +10,10 @@ In addition, the middle class to the marginalized are considered to be very affe
 
 ## Methods
 
-Statistical Analysis
-Visualization
-PCA
-Clustering
+- Statistical Analysis
+- Visualization
+- Principal Component Analysis (PCA)
+- Clustering
 
 ## Results
 
@@ -21,7 +21,7 @@ West Java Province ranks third in the worst poverty rate on the island of Java a
 
 ## Solutions and Recommendations
 
-We implemented the clustering method to group regions in West Java based on the severity of poverty, unemployment and MSMEs due to the pandemic and we found that there were 4 main regional clusters in West Java. From the results of further analysis on the characteristics of each cluster, the following government policy recommendations can be formulated:
+We implemented clustering method to group regions in West Java based on the severity of poverty, unemployment and MSMEs due to the pandemic and we found that there were 4 main regional clusters in West Java. From the results of further analysis on the characteristics of each cluster, the following government policy recommendations can be formulated:
 
 - Culinary business empowerment for the community in the cluster 2 regions: 
 Empowerment in the form of mentoring and counseling of culinary businesses to the community is carried out to cluster 2 areas which include Sukabumi City, Cirebon City, Cimahi City, Bogor City, Purwakarta Regency, Kuningan Regency, and Sumedang Regency which are considered to have a high poverty rate and a low number of SMEs.
