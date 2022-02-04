@@ -23,7 +23,7 @@ West Java Province ranks third in the worst poverty rate on the island of Java a
 
 We implemented clustering method to group regions in West Java based on the severity of poverty, unemployment and MSMEs due to the pandemic and we found that there were 4 main regional clusters in West Java. From the results of further analysis on the characteristics of each cluster, the following government policy recommendations can be formulated:
 
-- Culinary business empowerment for the community in the cluster 2 regions: 
+- Empowering SMEs on culinary sector for the community in the cluster 2 regions: 
 Empowerment in the form of mentoring and counseling of culinary businesses to the community is carried out to cluster 2 areas which include Sukabumi City, Cirebon City, Cimahi City, Bogor City, Purwakarta Regency, Kuningan Regency, and Sumedang Regency which are considered to have a high poverty rate and a low number of SMEs.
 - Accelerating business digitalization process, especially in the culinary sector: 
 Culinary business is a business that has good market potential for the middle class and marginalized people. This is reflected in the contribution of the culinary sector to the GDP of the creative economy, which is rated at the highest, reaching 41% in 2020. The utilization of this market potential is carried out by implementing the digitalization of culinary businesses so that they can continue to reach demand without being limited by the limited mobility of the community.
