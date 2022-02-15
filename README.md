@@ -1,5 +1,5 @@
 # Exploratory Data Analysis (EDA) on the Impact of the Pandemic to Poverty Rate, Unemployment Rate, and SMEs in West Java
-Language: English | Indonesian
+English | Indonesian
 ## Background
 
 The Covid-19 pandemic, which until now has not ended, has had significant transitional impacts on various sectors of people's lives nationally. In addition to the health sector which is directly affected, there are also economic sectors which performance has decreased significantly.
